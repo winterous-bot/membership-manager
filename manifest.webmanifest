@@ -1,0 +1,11 @@
+{
+  "name": "我的会员资产",
+  "short_name": "会员资产",
+  "description": "本地储值卡、次数卡和会员有效期管理",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f6fa",
+  "theme_color": "#f5f6fa",
+  "icons": [{"src": "icon.png", "sizes":"180x180", "type":"image/png", "purpose":"any"}]
+}
